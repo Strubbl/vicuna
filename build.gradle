@@ -40,8 +40,8 @@ application {
 
 java {
     // https://docs.gradle.org/current/javadoc/org/gradle/api/JavaVersion.html
-    sourceCompatibility = JavaVersion.VERSION_20
-    targetCompatibility = JavaVersion.VERSION_20
+    sourceCompatibility = JavaVersion.VERSION_26
+    targetCompatibility = JavaVersion.VERSION_26
 }
 
 gradle.projectsEvaluated {
